@@ -49,3 +49,12 @@ You'll learn techniques for efficient data transfers using SyncAdapters and Goog
 	
 ### Final Project (10-20 hours)
 Build your own Android app incorporating the skills you've learned in this course.
+
+## Lesson Note
+### Lesson 1
+#### Android Software Stack
+Linux Kernel->C/C++ Libs|Android Runtime->Application Framework->Application Layer
+#### gradle
+```
+./gradlew tasks
+```
